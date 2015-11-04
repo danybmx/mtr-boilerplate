@@ -1,17 +1,18 @@
 #Meteor boilerplate
+This is a boilerplate that I use on my projects.
 
 ##Packages
-iron:router
-alanning:roles
-aldeed:collection2
-aldeed:autoform
-dburles:collection-helpers
-particle4dev:sass
+* iron:router
+* alanning:roles
+* aldeed:collection2
+* aldeed:autoform
+* dburles:collection-helpers
+* particle4dev:sass
 
 ##Core packages
-insecure
-lodash
-accounts-base
+* insecure
+* lodash
+* accounts-base
 
 ##Files structure
     |_ docs *Project documentation*
