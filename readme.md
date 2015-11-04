@@ -14,6 +14,10 @@ This is a boilerplate that I use on my projects.
 * lodash
 * accounts-base
 
+##Testing related packages
+* velocity:html-reporter
+* sanjo:jasmine
+
 ##Files structure
     |_ docs *Project documentation*
     |_ client

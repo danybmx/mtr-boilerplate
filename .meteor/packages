@@ -23,3 +23,5 @@ alanning:roles
 aldeed:autoform
 particle4dev:sass
 dburles:collection-helpers
+velocity:html-reporter
+sanjo:jasmine
