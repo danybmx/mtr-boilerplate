@@ -1,7 +1,7 @@
-#Meteor boilerplate
+# Meteor boilerplate
 This is a boilerplate that I use on my projects.
 
-##Packages
+## Packages
 * iron:router
 * alanning:roles
 * aldeed:collection2
@@ -9,16 +9,16 @@ This is a boilerplate that I use on my projects.
 * dburles:collection-helpers
 * particle4dev:sass
 
-##Core packages
+## Core packages
 * insecure
 * lodash
 * accounts-base
 
-##Testing related packages
+## Testing related packages
 * velocity:html-reporter
 * sanjo:jasmine
 
-##Files structure
+## Files structure
     |_ docs *Project documentation*
     |_ client
     | |_ layouts
