@@ -15,6 +15,10 @@
   "predef": [
     "Meteor",
     "Mongo",
-    "_"
+    "_",
+    "$",
+    "describe",
+    "it",
+    "expect"
   ]
 }
